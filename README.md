@@ -5,7 +5,7 @@ This project uses the pretrained RetinaNet model to find the bounding boxes and 
 ## Results
 Using a 0.5 threshold :
 
-![output image](sample_output/lazyprogrammer/baseball.jpg)
+![output image](sample_output/lazyprogrammer/baseball_out.jpg)
 
 ![output image](sample_output/lazyprogrammer/cars_out.jpg)
 
